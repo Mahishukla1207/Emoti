@@ -1,4 +1,4 @@
-# 🎭 Emotion Detection using NLP
+# 🎭 Emoti - Emotion Detection using NLP
 
 An NLP-based emotion detection application that predicts the emotion expressed in a given text.
 
