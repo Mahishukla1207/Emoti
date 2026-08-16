@@ -41,4 +41,4 @@ Test Accuracy: **86.28%**
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Mahishukla1207/Emoti
